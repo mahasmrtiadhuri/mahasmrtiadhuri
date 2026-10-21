@@ -10,6 +10,7 @@ I build applications that connect useful interfaces with APIs, data, and inspect
 
 | Project | Focus | Explore |
 |---|---|---|
+| **PARG** | Rust transaction authorization, Ed25519 receipts, atomic PostgreSQL redemption, and adversarial concurrency tests | [Code & protocol](https://github.com/mahasmrtiadhuri/parg) |
 | **RelayQueue** | Durable Python job processing, concurrent workers, lease recovery, idempotency, and an operations dashboard | [Code & architecture](https://github.com/mahasmrtiadhuri/relayqueue) |
 | **GMA** | React and TypeScript geospatial application exploring weather-aware routing and environmental visualization | [Code & setup](https://github.com/mahasmrtiadhuri/project-gma) |
 | **Evidence Search** | BM25 and TF-IDF retrieval, explainable rankings, and graded relevance evaluation | [Code & evaluation](https://github.com/mahasmrtiadhuri/evidence-search) |
@@ -26,9 +27,10 @@ I build applications that connect useful interfaces with APIs, data, and inspect
 | Area | Technologies |
 |---|---|
 | Frontend | React, TypeScript, JavaScript, HTML, CSS, Tailwind |
-| Backend | Python, FastAPI, Node.js, Express, REST APIs |
-| Data | SQLite, MongoDB, schema validation, retrieval evaluation |
+| Backend | Python, Rust, Axum, FastAPI, Node.js, Express, REST APIs |
+| Data | PostgreSQL, SQLite, MongoDB, schema validation, retrieval evaluation |
 | Applied AI | Local inference with Ollama, conversational workflows, lexical retrieval |
 | Delivery | Git, automated tests, GitHub Actions, Docker Compose |
 
 I value clear documentation, reproducible examples, explicit tradeoffs, and tests that exercise failure cases.
+
