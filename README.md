@@ -10,6 +10,7 @@ I build applications that connect useful interfaces with APIs, data, and inspect
 
 | Project | Focus | Explore |
 |---|---|---|
+| **microbox** | Experimental native Linux sandbox in Rust: seccomp, namespaces, cgroups v2 lifecycle supervision, and real-kernel adversarial tests | [Code & measurements](https://github.com/mahasmrtiadhuri/microbox) |
 | **PARG** | Rust transaction authorization, Ed25519 receipts, atomic PostgreSQL redemption, and adversarial concurrency tests | [Code & protocol](https://github.com/mahasmrtiadhuri/parg) |
 | **RelayQueue** | Durable Python job processing, concurrent workers, lease recovery, idempotency, and an operations dashboard | [Code & architecture](https://github.com/mahasmrtiadhuri/relayqueue) |
 | **GMA** | React and TypeScript geospatial application exploring weather-aware routing and environmental visualization | [Code & setup](https://github.com/mahasmrtiadhuri/project-gma) |
@@ -33,4 +34,5 @@ I build applications that connect useful interfaces with APIs, data, and inspect
 | Delivery | Git, automated tests, GitHub Actions, Docker Compose |
 
 I value clear documentation, reproducible examples, explicit tradeoffs, and tests that exercise failure cases.
+
 
